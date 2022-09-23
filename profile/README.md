@@ -1,4 +1,4 @@
-<img src="https://www.womed.net/fileadmin/womed/pics/eckert-ziegler-womed-logo.svg" height="70"/>
+<img src="womed.png" height="170"/>
 
 ## The company WOLF-Medizintechnik was founded in 1990 in Gera. Since 1994, the company seat has been in St. Gangloff, Thuringia.
 
