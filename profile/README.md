@@ -1,4 +1,5 @@
-<img src="./womed.png" height="170"/>
+<img src="https://github.com/WOmed/.github/blob/2665daa130d470111f479db47c1dd7a734e4e309/profile/womed.png" height="170"/>
+
 
 ## The company WOLF-Medizintechnik was founded in 1990 in Gera. Since 1994, the company seat has been in St. Gangloff, Thuringia.
 
